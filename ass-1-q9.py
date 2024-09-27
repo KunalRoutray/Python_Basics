@@ -1,7 +1,11 @@
-def add():
-    return 2+3
+a=5
+b=5
+sum=a+b
 
-print(add())
+#different type of printing style
 
-print("Hello world!")
+print(2+3)                              
+print(sum)
+print("Hello world!",sum," hii")      
 print("kunal")
+print(f'sum total = {sum}')
